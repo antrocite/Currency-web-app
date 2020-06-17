@@ -28,17 +28,5 @@ I'm sorry if it doesn't work. I have only tested on Linux
 5. ???
 6. You should see Vue server running on http://localhost:8080/
 
-!!! P.S :
-
-This project was my very first time working in any front-end JS frameworks.
-
-I've tried to figure it all out on my own but it obviously takes some more than few days,
-so, I made frontend following this guide: https://testdriven.io/blog/developing-a-single-page-app-with-flask-and-vuejs/#flask-setup
-
-Thus, I do not claim to have done UI part by my own. Backend is completely mine though.
-Nevertheless, I am really looking forward in learning it, I already started one great online course on that.
-
-Also, frontend has one unsolved problem - delete button is not clickable.
-I really couldn't figure that one out(At the moment), but I will solve it later.
 
 
